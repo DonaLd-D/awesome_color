@@ -1,0 +1,13 @@
+h3{
+    width: 100vw;
+    text-align: center;
+    color: brown;
+}
+#container{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+#container>img{
+    margin: 10px auto;
+}
